@@ -1,4 +1,4 @@
-# crosstools-riscv64
+# cross-tools-riscv64
 
 riscv64 cross-compile toolchain, supports both x86_64(amd64) and aarch64(arm64) architectures.
 

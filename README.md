@@ -11,7 +11,7 @@ riscv64 cross-compile toolchain, supports both x86_64(amd64) and aarch64(arm64) 
 
 ## How to use
 
-Download the tarball from the [release page](https://github.com/czhehua/crosstool-riscv64) and extract it to `/opt/x-tools`:
+Download the tarball from the [release page](https://github.com/czhehua/cross-tool-riscv64/releases) and extract it to `/opt/x-tools`:
 
 ```sh
 sudo mkdir -p /opt/x-tools

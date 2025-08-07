@@ -2,7 +2,7 @@
 
 set -e
 
-TARGET=riscv-unknown-linux-gnu
+TARGET=riscv64-unknown-linux-gnu
 VERSION=stable
 
 if [ -z "${VERSION}" ]; then

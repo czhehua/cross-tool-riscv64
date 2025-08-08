@@ -15,7 +15,7 @@ Download the tarball from the [release page](https://github.com/czhehua/cross-to
 
 ```sh
 sudo mkdir -p /opt/x-tools
-sudo tar -xf x86_64-cross-tools-riscv64-unknown-linux-gnu-stable.tar.xz -C /opt/x-tools
+sudo tar -xf XXX-cross-tools-riscv64-XXX.tar.xz -C /opt/x-tools
 ```
 
 ## How to build

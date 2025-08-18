@@ -2,8 +2,8 @@
 
 set -e
 
-TARGET=riscv64-unknown-linux-gnu
-VERSION=stable
+TARGET=$1
+VERSION=$2
 
 if [ -z "${VERSION}" ]; then
     VERSION=stable

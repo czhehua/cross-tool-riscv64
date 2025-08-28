@@ -26,7 +26,7 @@ sudo tar -xf XXX-cross-tools-riscv64-XXX.tar.xz -C /opt/x-tools
 Fork this project and create a new release, or build manually:
 
 ```sh
-./make ${TARGET} ${VERSION}
+./scripts/make ${TARGET} ${VERSION}
 ```
 
 ## License

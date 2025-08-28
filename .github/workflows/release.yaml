@@ -28,7 +28,7 @@ jobs:
       - name: Build
         run: |
           sudo rm -rf /opt/*
-          ./make ${{ matrix.target }} ${{ matrix.version }}
+          ./scripts/make ${{ matrix.target }} ${{ matrix.version }}
       - name: Generate file
         run: |
           file_name="$(uname -m)-cross-tools-${{ matrix.target }}-${{ matrix.version }}"

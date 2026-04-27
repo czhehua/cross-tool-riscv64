@@ -7,8 +7,6 @@ riscv64 cross-compile toolchain, supports both x86_64(amd64) and aarch64(arm64) 
 | Version | Target                     | Kernel | Binutils | GCC    | Libc(glibc) | Libc(musl) |
 | ------- | -------------------------- | ------ | -------- | ------ | ----------- | ---------- |
 | stable  | riscv64-unknown-linux-gnu  | 6.6.74 | 2.41     | 12.3.0 | 2.38        | ---        |
-| stable  | riscv64-unknown-linux-musl | 6.6.74 | 2.41     | 14.2.0 | ---         | 1.2.5      |
-
 
 ## How to use
 

@@ -36,5 +36,4 @@ MIT
 We would like to express our gratitude to the following individuals and projects:
 
 - [crosstool-ng](https://github.com/crosstool-ng/crosstool-ng)
-- [musl-cross](https://github.com/musl-cross/musl-cross)
 - [loong64/cross-tools](https://github.com/loong64/cross-tools)
